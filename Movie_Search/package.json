@@ -14,7 +14,7 @@
     "jade": "~1.11.0",
     "morgan": "^1.9.1",
     "nodemon": "^1.17.4",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "serve-favicon": "~2.4.5",
     "sparql-client-2": "^0.6.2"
   }
